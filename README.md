@@ -4,4 +4,4 @@ Ce dépot est ma demonstration faite à un ami professeur de physique chimie dan
 
 # Practical Work, Parabolic Motion, Part 4
 
-This repository is my demonstration to a friend, a high school physics and chemistry teacher, that [Jupyter Notebooks](https://jupyter.org/) coupled with [Binder](https://mybinder.org/) constitute a relatively simple and powerful tool to guide students in using [Python](https://www.python.org/) code to analyzing raw data during practical classes.
+This repository is my demonstration to a friend, a high school physics and chemistry teacher, that [Jupyter Notebooks](https://jupyter.org/) coupled with [Binder](https://mybinder.org/) constitute a relatively simple and powerful tool to guide students in using [Python](https://www.python.org/) code to analyze raw data during practical classes.
