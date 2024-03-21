@@ -1,4 +1,4 @@
-# Travaux Pratique, Mouvement Parabolique, Partie 4
+# Travaux Pratiques, Mouvement Parabolique, Partie 4
 
 Ce dépot est ma demonstration faite à un ami professeur de physique chimie dans le secondaire que les [Notebooks Jupyter](https://jupyter.org/) couplés à [Binder](https://mybinder.org/) constituent un outil relativement simple à mettre en place et puissant pour guider les élèves dans l'utilisation de code [Python](https://www.python.org/) au sein d'un TP de Physique à des fins d'analyse de données brutes.
 
