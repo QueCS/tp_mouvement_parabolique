@@ -14,7 +14,7 @@ https://github.com/QueCS/tp_mouvement_parabolique
 ```
 ![title](img/binder_02.png)
 
-Cliquez ensuite simplement sur "launch" et laissez Binder créer votre environnement de travail virtuel. Ça ne devrait prendre que quelques minutes et une fois ce dernier prêt, la page se rafraichira automatiquement pour le lancer sur un serveur distant.
+Cliquez ensuite simplement sur "launch" et laissez Binder créer votre environnement de travail virtuel. Ça prendra quelques minutes et une fois ce dernier prêt, la page se rafraichira automatiquement pour le lancer sur un serveur distant.
 
 ![title](img/binder_03.png)
 
@@ -31,10 +31,11 @@ https://github.com/QueCS/tp_mouvement_parabolique
 
 ![title](img/binder_02.png)
 
-Then simply click on "launch" and let Binder time to create your virtual working environment. This will only take a few minutes and once it is ready, the page will automatically refresh itself to launch it on a remote server.
+Then simply click on "launch" and let Binder time to create your virtual working environment. This will take a few minutes and once it is ready, the page will automatically refresh itself to launch it on a remote server.
 
 ![title](img/binder_03.png)
 
-Once the working environment loaded simply open the following file and follow along. It will be in french though.
+Once the working environment loaded simply open the following file and follow along.\
+It will be in french though.
 
 ![title](img/binder_04.png)
